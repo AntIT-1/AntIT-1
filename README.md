@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/AnthonyDiaz1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AnthonyDiaz1/azure-network-protocols)
-  - [Network files and permissions](https://github/AnthonyDiaz1/Network-files-and-permissions)
+  - [Network Files and Permissions](https://github/AntIT-1/Network-files-and-permissions)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
