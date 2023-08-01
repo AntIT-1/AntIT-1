@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/AnthonyDiaz1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AnthonyDiaz1/azure-network-protocols)
   - [Network Files and Permissions](https://github.com/AntIT-1/network-files-and-permissions)
-  - [Building Intuition for DNS](https://github/AntIT-1/dns)
+  - [DNS](https://github/AntIT-1/dns)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
