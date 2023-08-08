@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/AnthonyDiaz1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AnthonyDiaz1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine in Azure](https://github.com/AnthonyDiaz1/configure-ad)
+  - [Creating a Virtual Machine in Azure](https://github.com/AnthonyDiaz1/Creating-VM)
   - [Configuring Active Directory within Azure VMs](https://github.com/AnthonyDiaz1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AnthonyDiaz1/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/AntIT-1/network-files-and-permissions)
